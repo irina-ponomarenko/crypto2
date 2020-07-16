@@ -1,0 +1,2099 @@
+@media screen and (max-width: 1600px)  {
+
+    .container-header::before{
+        bottom: -207px;
+        height: 216px;
+    }
+
+    .third-section::before{
+        top: -207px;
+        height: 216px;
+    }
+
+}
+
+@media screen and (max-width: 1480px)  {
+
+    .container-header::before{
+        bottom: -193px;
+        height: 195px;
+    }
+
+    .third-section::before{
+        top: -193px;
+        height: 195px;
+    }
+}
+
+@media screen and (max-width: 1440px)  {
+    .item-statistic {
+        margin: 15px;
+    }
+
+    .title-chart,
+    .info-chart {
+        font-size: 20px;
+    }
+
+    .main-title{
+        font-size: 75px;
+        line-height: 78px;
+        max-width: 488px;
+    }
+
+    .main-text{
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .social-link {
+        width: 40px;
+        height: 40px;
+    }
+
+    .languages li a{
+        width: 45px;
+    }
+
+    .languages{
+        width: 47px;
+    }
+
+    .container-header::before {
+        bottom: -186px;
+        height: 188px;
+    }
+
+    .third-section::before{
+        top: -186px;
+        height: 188px;
+    }
+
+    .title-block{
+        font-size: 50px;
+        line-height: 53px;
+    }
+
+    .sub-title-header{
+        margin-top: 20px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .title-referal{
+        max-width: 437px;
+        font-size: 31px;
+        line-height: 35px;
+    }
+
+    .referal-item {
+        border-radius: 25px;
+        width: 230px;
+        height: 230px;
+        padding: 25px;
+    }
+
+    .level span{
+        font-size: 16px;
+    }
+
+    .level .number-level,
+    .referal-percent {
+        font-size: 50px;
+    }
+
+    .summa-level span{
+        font-size: 14px;
+    }
+
+    .summa-level .number-level{
+        font-size: 30px;
+    }
+
+    .summa-ref{
+        font-size: 28px;
+    }
+
+    .level {
+        right: 24px;
+        top: 25px;
+    }
+
+    .table-lider tr th {
+        font-size: 20px;
+    }
+
+    .lider-block-container{
+        margin-right: 10px;
+    }
+
+    .container-referal-block{
+        margin-left: 10px;
+    }
+
+    .link-title{
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+
+    .link{
+        line-height: 23px;
+    }
+
+    .text-bonus {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+
+    .advantages-right img {
+        max-width: 590px;
+        width: 100%;
+    }
+
+    .content-footer{
+        padding: 30px 16px;
+    }
+
+    .about-game p, .year {
+        font-size: 16px;
+    }
+
+    .smart-btn{
+        width: 170px;
+        height: 42px;
+    }
+
+    .yesterday {
+        left: 105px;
+        top: 192px;
+    }
+
+    .today {
+        right: -146px;
+        top: 80px;
+    }
+
+    .tomorrow {
+        top: 121px;
+        right: -202px;
+    }
+
+    .percent{
+        font-size: 43px;
+        margin-bottom: 121px;
+    }
+
+    .name-day {
+        font-size: 28px;
+    }
+
+    .today .percent {
+        margin-bottom: 130px;
+        font-size: 54px;
+    }
+
+    .tomorrow .percent {
+        margin-bottom: 144px;
+    }
+
+    .tomorrow .name-day {
+        font-size: 24px;
+    }
+
+}
+
+@media screen and (max-width: 1380px)  {
+    .yesterday {
+        left: 96px;
+        top: 187px;
+    }
+    .tomorrow {
+        top: 116px;
+        right: -195px;
+    }
+}
+
+@media screen and (max-width: 1372px)  {
+    .yesterday {
+        left: 95px;
+        top: 182px;
+    }
+    .today {
+        right: -138px;
+        top: 73px;
+    }
+    .tomorrow {
+        top: 114px;
+        right: -185px;
+    }
+}
+
+@media screen and (max-width: 1363px)  {
+
+    .container-header::before {
+        bottom: -180px;
+        height: 182px;
+    }
+
+    .third-section::before{
+        top: -180px;
+        height: 182px;
+    }
+}
+
+@media screen and (max-width: 1352px)  {
+    .yesterday {
+        left: 103px;
+        top: 176px;
+    }
+    .today {
+        right: -146px;
+        top: 71px;
+    }
+    .tomorrow {
+        top: 112px;
+        right: -200px;
+    }
+
+    .name-day {
+        font-size: 25px;
+    }
+
+    .tomorrow .name-day {
+        font-size: 23px;
+    }
+
+    .chart-container{
+        width: 180px;
+        height: 180px;
+    }
+
+    .item-statistic {
+        max-width: 183px;
+    }
+
+}
+
+@media screen and (max-width: 1336px)  {
+    .yesterday {
+        left: 99px;
+        top: 176px;
+    }
+    .today {
+        right: -140px;
+        top: 70px;
+    }
+    .tomorrow {
+        top: 110px;
+        right: -191px;
+    }
+
+    .tomorrow .percent {
+        margin-bottom: 136px;
+    }
+
+}
+
+@media screen and (max-width: 1323px)  {
+
+    .container-header::before {
+        bottom: -173px;
+        height: 174px;
+    }
+
+    .third-section::before{
+        top: -173px;
+        height: 174px;
+    }
+
+    .second-section{
+        margin-top: 200px;
+    }
+
+    .referal-link-block{
+        margin: 30px 15px;
+    }
+
+    .copy-btn {
+        font-size: 16px;
+        line-height: 16px;
+        border-radius: 22px;
+        width: 165px;
+        height: 44px;
+    }
+
+    .title-chart, .info-chart {
+        font-size: 18px;
+    }
+
+    .table-lider tr th,
+    .table-lider{
+        font-size: 18px;
+    }
+
+}
+
+@media screen and (max-width: 1312px)  {
+    .name-day {
+        font-size: 25px;
+    }
+    .percent {
+        font-size: 40px;
+        margin-bottom: 112px;
+
+    }
+    .yesterday {
+        left: 96px;
+        top: 176px;
+    }
+    .today {
+        right: -142px;
+        top: 69px;
+    }
+    .tomorrow {
+        top: 110px;
+        right: -187px;
+    }
+
+    .today .percent {
+        margin-bottom: 121px;
+        font-size: 52px;
+    }
+
+}
+
+@media screen and (max-width: 1285px)  {
+    .yesterday {
+        left: 102px;
+        top: 172px;
+    }
+    .today {
+        right: -146px;
+        top: 70px;
+    }
+    .tomorrow {
+        top: 108px;
+        right: -184px;
+    }
+
+    .name-day {
+        font-size: 23px;
+    }
+
+}
+
+@media screen and (max-width: 1277px)  {
+
+    .third-section::before {
+        top: -169px;
+        height: 171px;
+    }
+
+    .container-header::before {
+        bottom: -170px;
+        height: 171px;
+    }
+
+    .lider-block{
+        height: 100%;
+    }
+}
+
+@media screen and (max-width: 1266px)  {
+
+    .container-header::before {
+        bottom: -166px;
+        height: 168px;
+    }
+
+    .third-section::before{
+        top: -166px;
+        height: 168px;
+    }
+    .today {
+        right: -133px;
+        top: 69px;
+    }
+    .tomorrow {
+        top: 107px;
+        right: -189px;
+    }
+    .yesterday {
+        left: 96px;
+        top: 169px;
+    }
+
+    .today .percent {
+        margin-bottom: 115px;
+    }
+
+    .tomorrow .name-day {
+        font-size: 21px;
+    }
+
+    .tomorrow .percent {
+        margin-bottom: 128px;
+    }
+
+}
+
+
+@media screen and (max-width: 1242px)  {
+
+    .third-section::before {
+        top: -162px;
+        height: 165px;
+    }
+
+    .container-header::before {
+        bottom: -162px;
+        height: 165px;
+    }
+    .yesterday {
+        left: 96px;
+        top: 165px;
+    }
+    .today {
+        right: -134px;
+        top: 68px;
+    }
+    .tomorrow {
+        top: 107px;
+        right: -180px;
+    }
+}
+
+@media screen and (max-width: 1228px)  {
+
+    .today {
+        right: -132px;
+        top: 64px;
+    }
+    .tomorrow {
+        top: 103px;
+        right: -177px;
+    }
+
+}
+
+@media screen and (max-width: 1209px)  {
+
+    .chart-container {
+        width: 170px;
+        height: 170px;
+    }
+
+    .item-statistic {
+        margin: 10px;
+    }
+
+    .today {
+        right: -128px;
+        top: 66px;
+    }
+
+    .yesterday {
+        left: 93px;
+        top: 162px;
+    }
+
+    .tomorrow {
+        top: 102px;
+        right: -178px;
+    }
+
+    .percent {
+        font-size: 38px;
+        margin-bottom: 108px;
+    }
+
+    .today .percent {
+        margin-bottom: 112px;
+        font-size: 50px;
+    }
+
+    .tomorrow .percent {
+        margin-bottom: 124px;
+    }
+
+    .tomorrow .name-day {
+        font-size: 19px;
+    }
+}
+
+@media screen and (max-width: 1192px)  {
+    .yesterday {
+        left: 89px;
+        top: 158px;
+    }
+    .today {
+        right: -137px;
+        top: 64px;
+    }
+
+    .tomorrow {
+        top: 99px;
+        right: -183px;
+    }
+
+    .today .percent {
+        font-size: 46px;
+    }
+
+    .percent {
+        font-size: 38px;
+        margin-bottom: 103px;
+    }
+    .name-day {
+        font-size: 21px;
+    }
+
+}
+
+@media screen and (max-width: 1178px)  {
+
+    .third-section::before {
+        top: -155px;
+        height: 157px;
+    }
+
+    .container-header::before {
+        bottom: -155px;
+        height: 157px;
+    }
+
+}
+
+
+@media screen and (max-width: 1170px)  {
+
+    .item-statistic {
+        max-width: 152px;
+    }
+
+    .chart-container {
+        width: 150px;
+        height: 150px;
+    }
+
+    .title-chart, .info-chart {
+        font-size: 16px;
+    }
+
+    .yesterday {
+        left: 90px;
+        top: 156px;
+    }
+    .tomorrow {
+        top: 113px;
+        right: -154px;
+    }
+    .today {
+        right: -132px;
+        top: 63px;
+    }
+    .tomorrow {
+        top: 97px;
+        right: -182px;
+    }
+
+}
+
+@media screen and (max-width: 1150px)  {
+    .yesterday {
+        left: 86px;
+        top: 145px;
+    }
+
+}
+
+@media screen and (max-width: 1136px)  {
+
+    .container-header::before {
+        bottom: -149px;
+        height: 150px;
+    }
+
+    .third-section::before {
+        top: -149px;
+        height: 150px;
+    }
+
+    .second-section {
+        margin-top: 160px;
+    }
+
+    .title-advantages, .text-advantages{
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .text-advantages {
+        font-size: 14px;
+    }
+
+    .advantages-icon{
+        width: 80px;
+        height: 80px;
+    }
+
+    .advantages-right img {
+        max-width: 680px;
+        width: 100%;
+    }
+
+    .advantages-container {
+        padding: 40px 0;
+    }
+
+    .lider-block {
+        padding: 25px 15px;
+    }
+
+    .percent {
+        font-size: 34px;
+    }
+
+    .yesterday {
+        left: 86px;
+        top: 152px;
+    }
+
+    .today .percent {
+        margin-bottom: 107px;
+
+    }
+
+    .tomorrow {
+        top: 96px;
+        right: -175px;
+    }
+    .tomorrow .name-day {
+        font-size: 18px;
+    }
+
+}
+
+
+@media screen and (max-width: 1128px)  {
+
+    .main-title {
+        font-size: 60px;
+        line-height: 60px;
+        max-width: 467px;
+    }
+
+    .right-block img {
+        max-width: 550px;
+        width: 100%;
+    }
+
+    .container-header::before {
+        bottom: -140px;
+        height: 144px;
+    }
+
+    .third-section::before {
+        top: -140px;
+        height: 144px;
+    }
+    .yesterday {
+        left: 88px;
+        top: 151px;
+    }
+    .today {
+        right: -131px;
+        top: 65px;
+    }
+    .tomorrow {
+        top: 96px;
+        right: -188px;
+    }
+    .name-day {
+        font-size: 19px;
+    }
+
+    .percent {
+        margin-bottom: 100px;
+    }
+
+    .today .percent {
+        margin-bottom: 103px;
+        font-size: 42px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 118px;
+    }
+    .tomorrow .name-day {
+        font-size: 17px;
+    }
+
+}
+
+@media screen and (max-width: 1112px)  {
+
+    .yesterday {
+        left: 88px;
+        top: 145px;
+    }
+    .today {
+        right: -131px;
+        top: 64px;
+    }
+    .tomorrow {
+        top: 94px;
+        right: -182px;
+    }
+
+}
+
+@media screen and (max-width: 1098px)  {
+
+    .chart-container {
+        width: 150px;
+        height: 150px;
+    }
+
+    .item-statistic { 
+        max-width: 150px;
+    }
+
+    .second-block {
+        padding: 30px 0 100px;
+    }
+}
+
+@media screen and (max-width: 1073px)  {
+    .yesterday {
+        left: 88px;
+        top: 139px;
+    }
+
+    .today {
+        right: -121px;
+        top: 58px;
+    }
+
+    .tomorrow {
+        top: 85px;
+        right: -170px;
+    }
+}
+
+
+@media screen and (max-width: 1063px)  {
+
+    .main-text {
+        font-size: 16px;
+        line-height: 17px;
+        max-width: 383px;
+    }
+
+    .main-title {
+        max-width: 397px;
+    }
+
+    .referal-item {
+        width: 220px;
+        height: 220px;
+
+    }
+}
+
+@media screen and (max-width: 1040px)  {
+
+    .referal-item {
+        width: 216px;
+        height: 216px;
+    }
+
+    .yesterday {
+        left: 80px;
+        top: 138px;
+    }
+    .today {
+        right: -118px;
+        top: 59px;
+    }
+    .tomorrow {
+        top: 88px;
+        right: -166px;
+    }
+
+    .percent {
+        margin-bottom: 96px;
+    }
+
+    .today .percent {
+        margin-bottom: 98px;
+        font-size: 38px;
+    }
+
+    .tomorrow .percent {
+        margin-bottom: 108px;
+    }
+}
+
+@media screen and (max-width: 1024px)  {
+
+    .container-header::before {
+        bottom: -137px;
+        height: 148px;
+    }
+
+    .third-section::before {
+        top: -137px;
+        height: 148px;
+    }
+
+    .first-screen{
+        flex-direction: column-reverse;
+    }
+
+    .container-card{
+        flex-wrap: wrap;
+    }
+
+    .card{
+        margin: 15px;
+    }
+
+    .container-bonus{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .advantages{
+        flex-direction: column-reverse;
+    }
+
+    .advantages-right{
+        margin-bottom: 25px;
+    }
+
+    .advantages-left {
+        width: 90%;
+        margin-right: 0;
+    }
+
+    .container-referal-block {
+        margin-left: 0;
+    }
+
+    .lider-block-container {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .container-referal-block {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+    .lider-block-container{
+        width: 70%;
+    }
+
+    .lider-block{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .right-block img {
+        max-width: 100%;
+        width: 100%;
+    }
+    .right-block {
+        width: 60%;
+    }
+    .name-day {
+        font-size: 22px;
+    }
+    .percent {
+        font-size: 38px;
+        margin-bottom: 126px;
+    }
+    .yesterday {
+        left: 113px;
+        top: 185px;
+    }
+    .today {
+        right: -174px;
+        top: 79px;
+    }
+    .tomorrow {
+        top: 121px;
+        right: -245px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 140px;
+    }
+
+    .today .percent {
+        margin-bottom: 131px;
+        font-size: 47px;
+    }
+    .tomorrow .name-day {
+        font-size: 19px;
+    }
+
+}
+
+@media screen and (max-width: 988px)  {
+    .yesterday {
+        left: 110px;
+        top: 176px;
+    }
+
+    .today {
+        right: -167px;
+        top: 72px;
+    }
+
+    .tomorrow {
+        top: 114px;
+        right: -230px;
+    }
+}
+
+@media screen and (max-width: 968px)  {
+    .percent {
+        margin-bottom: 118px;
+    }
+
+    .yesterday {
+        left: 104px;
+        top: 174px;
+    }
+
+    .today .percent {
+        margin-bottom: 125px;
+    }
+
+    .tomorrow .percent {
+        margin-bottom: 132px;
+    }
+
+    .today {
+        right: -157px;
+    }
+
+    .tomorrow {
+        top: 113px;
+        right: -219px;
+    }
+}
+
+@media screen and (max-width: 962px)  {
+
+    .container-header::before {
+        bottom: -124px;
+        height: 127px;
+    }
+
+    .third-section::before {
+        top: -124px;
+        height: 127px;
+    }
+    .right-block {
+        width: 63%;
+    }
+
+
+}
+
+@media screen and (max-width: 945px)  {
+    .yesterday {
+        left: 108px;
+        top: 181px;
+    }
+    .today {
+        right: -166px;
+        top: 78px;
+    }
+
+    .tomorrow {
+        top: 119px;
+        right: -231px;
+    }
+}
+
+@media screen and (max-width: 932px)  {
+    .right-block {
+        width: 65%;
+    }
+    .yesterday {
+        left: 108px;
+        top: 188px;
+    }
+    .today {
+        right: -173px;
+        top: 82px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 138px;
+    }
+    .tomorrow {
+        top: 120px;
+        right: -241px;
+    }
+}
+
+@media screen and (max-width: 916px)  {
+    .right-block {
+        width: 67%;
+    }
+}
+
+@media screen and (max-width: 900px)  {
+
+    .container-header::before {
+        bottom: -115px;
+        height: 117px;
+    }
+
+    .third-section::before {
+        top: -115px;
+        height: 117px;
+    }
+
+    .right-block {
+        width: 69%;
+    }
+}
+
+@media screen and (max-width: 897px)  {
+    .yesterday {
+        left: 113px;
+        top: 186px;
+    }
+    .percent {
+        margin-bottom: 128px;
+    }
+    .today {
+        right: -178px;
+        top: 77px;
+    }
+    .today .percent {
+        margin-bottom: 135px;
+    }
+    .tomorrow {
+        top: 120px;
+        right: -250px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 145px;
+    }
+
+}
+
+@media screen and (max-width: 880px)  {
+    .tomorrow {
+        top: 115px;
+        right: -242px;
+    }
+}
+
+@media screen and (max-width: 867px)  {
+
+    .container-header::before {
+        bottom: -109px;
+        height: 112px;
+    }
+
+    .third-section::before {
+        top: -109px;
+        height: 112px;
+    }
+
+    .right-block {
+        width: 71%;
+    }
+}
+
+@media screen and (max-width: 836px)  {
+    .right-block {
+        width: 73%;
+    }
+}
+
+@media screen and (max-width: 800px)  {
+
+    .container-header::before {
+        bottom: -103px;
+        height: 105px;
+    }
+
+    .third-section::before {
+        top: -103px;
+        height: 105px;
+    }
+
+    .second-section {
+        margin-top: 96px;
+    }
+
+    .second-block {
+        padding: 30px 0 50px;
+    }
+
+    .right-block {
+        width: 76%;
+    }
+
+}
+
+@media screen and (max-width: 776px)  {
+    .right-block {
+        width: 78%;
+    }
+
+    .copy-btn{
+        margin-left: 0;
+        max-width: 450px;
+        width: 100%;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 768px)  {
+
+    .container-header::before {
+        bottom: -94px;
+        height: 96px;
+    }
+
+    .third-section::before {
+        top: -94px;
+        height: 96px;
+    }
+
+    .right-block {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 732px)  {
+    .right-block {
+        width: 83%;
+    }
+}
+
+@media screen and (max-width: 715px)  {
+    .right-block {
+        width: 85%;
+    }
+}
+
+@media screen and (max-width: 700px)  {
+
+    .container-header::before {
+        bottom: -83px;
+        height: 89px;
+    }
+
+    .third-section::before {
+        top: -83px;
+        height: 89px;
+    }
+    .right-block {
+        width: 87%;
+    }
+
+}
+
+@media screen and (max-width: 675px)  {
+    .right-block {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 660px)  {
+    .right-block {
+        width: 92%;
+    }
+}
+
+@media screen and (max-width: 645px)  {
+    .right-block {
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 635px)  {
+
+    .second-card:nth-child(2n), .fourth-card:nth-child(2n) {
+        top: 0;
+    }
+
+    .copy-btn {
+        max-width: 450px;
+        width: 100%;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    .lider-block-container {
+        width: 93%;
+    }
+
+    .second-section{
+        padding-bottom: 40px;
+    }
+}
+
+@media screen and (max-width: 623px)  {
+    .right-block {
+        width: 98%;
+    }
+}
+
+@media screen and (max-width: 608px)  {
+    .right-block {
+        width: 100%;
+        padding: 0 10px;
+    }
+    .tomorrow {
+        top: 109px;
+        right: -223px;
+    }
+    .today {
+        right: -161px;
+        top: 72px;
+    }
+    .yesterday {
+        left: 105px;
+        top: 176px;
+    }
+    .percent {
+        margin-bottom: 121px;
+    }
+
+    .today .percent {
+        margin-bottom: 128px;
+    }
+
+    .tomorrow .percent {
+        margin-bottom: 140px;
+    }
+
+
+}
+
+@media screen and (max-width: 597px)  {
+
+    .first-screen{
+        padding-bottom: 40px;
+    }
+
+    .social-link {
+        width: 30px;
+        height: 30px;
+    }
+
+    .header-content{
+        padding: 15px 15px;
+    }
+
+    .smart-btn {
+        width: 150px;
+        height: 35px;
+        font-size: 14px;
+    }
+
+    .languages li a{
+        line-height: 30px;
+    }
+
+    .title-block {
+        font-size: 40px;
+        line-height: 41px;
+    }
+
+    .sub-title-header {
+        margin-top: 15px;
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .name-day {
+        font-size: 23px;
+    }
+}
+
+@media screen and (max-width: 592px)  {
+    .yesterday {
+        left: 99px;
+        top: 168px;
+    }
+    .today {
+        right: -148px;
+        top: 72px;
+    }
+    .today .percent {
+        margin-bottom: 120px;
+    }
+    .tomorrow {
+        top: 109px;
+        right: -207px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 133px;
+    }
+}
+
+@media screen and (max-width: 585px)  {
+    .percent {
+        margin-bottom: 112px;
+    }
+    .today {
+        right: -148px;
+        top: 69px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 130px;
+    }
+
+    .tomorrow {
+        top: 105px;
+        right: -202px;
+    }
+}
+
+@media screen and (max-width: 578px)  {
+    .container-header::before {
+        bottom: -70px;
+        height: 76px;
+    }
+
+    .third-section::before {
+        top: -70px;
+        height: 76px;
+    }
+
+    .third-section{
+        padding: 30px 0 40px;
+    }
+
+    .about-game p, .year {
+        font-size: 14px;
+    }
+
+    .about-game {
+        width: 100%;
+        margin: 0 15px;
+    }
+
+    .sub-title-header{
+        max-width: 430px;
+    }
+}
+
+@media screen and (max-width: 572px)  {
+    .name-day {
+        font-size: 21px;
+    }
+    .yesterday {
+        left: 99px;
+        top: 163px;
+    }
+    .today {
+        right: -148px;
+        top: 66px;
+    }
+}
+
+@media screen and (max-width: 564px)  {
+    .yesterday {
+        left: 99px;
+        top: 159px;
+    }
+    .today .percent {
+        margin-bottom: 114px;
+    }
+
+    .tomorrow .percent {
+        margin-bottom: 123px;
+    }
+
+    .tomorrow {
+        top: 105px;
+        right: -197px;
+    }
+}
+
+@media screen and (max-width: 555px)  {
+    .yesterday {
+        left: 92px;
+        top: 155px;
+    }
+    .percent {
+        margin-bottom: 107px;
+    }
+    .today {
+        right: -133px;
+        top: 62px;
+    }
+    .today .percent {
+        margin-bottom: 111px;
+    }
+    .tomorrow {
+        top: 99px;
+        right: -178px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 119px;
+    }
+}
+
+@media screen and (max-width: 543px)  {
+
+    .referal-item {
+        width: 200px;
+        height: 200px;
+    }
+
+    .social-list {
+        margin-right: 15px;
+    }
+
+    .third-section {
+        padding: 30px 0 15px;
+    }
+}
+
+@media screen and (max-width: 537px)  {
+    .header-content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header-content .logo{
+        margin-bottom: 15px;
+    }
+
+    .content-header{
+        width: 100%;
+        justify-content: space-between;
+    }
+    .yesterday {
+        left: 86px;
+        top: 152px;
+    }
+    .percent {
+        margin-bottom: 100px;
+    }
+    .today {
+        right: -123px;
+        top: 58px;
+    }
+    .tomorrow {
+        top: 96px;
+        right: -166px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 115px;
+    }
+
+}
+
+@media screen and (max-width: 525px)  {
+    .percent {
+        font-size: 34px;
+    }
+    .yesterday {
+        left: 90px;
+        top: 148px;
+    }
+    .today .percent {
+        font-size: 44px;
+        margin-bottom: 104px;
+    }
+    .today {
+        right: -130px;
+        top: 62px;
+    }
+    .name-day {
+        font-size: 19px;
+    }
+    .tomorrow {
+        top: 96px;
+        right: -174px;
+    }
+}
+
+@media screen and (max-width: 511px)  {
+    .referal-item {
+        width: 180px;
+        height: 180px;
+        padding: 15px;
+    }
+
+    .footer-referal p{
+        max-width: 100px;
+    }
+
+    .level .number-level, .referal-percent {
+        font-size: 40px;
+    }
+
+    .summa-level .number-level{
+        font-size: 28px;
+    }
+
+    .level .number-level, .referal-percent{
+        font-size: 24px;
+    }
+
+    .level {
+        right: 11px;
+        top: 11px;
+    }
+    .yesterday {
+        left: 86px;
+        top: 143px;
+    }
+    .today {
+        right: -130px;
+        top: 58px;
+    }
+    .tomorrow .name-day {
+        font-size: 17px;
+    }
+    .tomorrow {
+        top: 93px;
+        right: -172px;
+    }
+
+    .chart-container {
+        width: 135px;
+        height: 135px;
+    }
+
+    .item-statistic{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex: none;
+    }
+
+}
+
+@media screen and (max-width: 498px)  {
+    .yesterday {
+        left: 82px;
+        top: 137px;
+    }
+    .percent {
+        margin-bottom: 96px;
+    }
+    .today {
+        right: -120px;
+        top: 55px;
+    }
+    .today .percent {
+        font-size: 42px;
+        margin-bottom: 100px;
+    }
+    .tomorrow {
+        top: 86px;
+        right: -161px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 110px;
+    }
+
+    .list-statistic {
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+
+@media screen and (max-width: 489px)  {
+    .container-header::before {
+        bottom: -54px;
+        height: 63px;
+    }
+
+    .third-section::before {
+        top: -54px;
+        height: 63px;
+    }
+
+    .table-lider{
+        font-size: 14px;
+    }
+
+    .table-lider tr th {
+        font-size: 14px;
+    }
+    .yesterday {
+        left: 78px;
+        top: 137px;
+    }
+    .percent {
+        margin-bottom: 90px;
+    }
+    .today {
+        right: -113px;
+        top: 55px;
+    }
+    .today .percent {
+        margin-bottom: 96px;
+    }
+    .tomorrow {
+        right: -152px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 106px;
+    }
+}
+
+
+@media screen and (max-width: 476px)  {
+    .yesterday {
+        left: 74px;
+        top: 130px;
+    }
+    .today {
+        right: -110px;
+    }
+    .today .percent {
+        margin-bottom: 92px;
+    }
+    .tomorrow {
+        right: -143px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 101px;
+    }
+}
+
+@media screen and (max-width: 471px)  {
+    .item-statistic {
+        max-width: 145px;
+    }
+
+    .chart-container {
+        width: 136px;
+        height: 136px;
+    }
+
+    .list-statistic{
+        justify-content: center;
+    }
+
+    .main-title,
+    .main-text{
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 468px)  {
+    .referal-item {
+        width: 250px;
+        height: 250px;
+        padding: 25px;
+    }
+
+    .level .number-level, .referal-percent {
+        font-size: 55px;
+    }
+
+    .summa-level .number-level{
+        font-size: 35px;
+    }
+
+    .level {
+        right: 22px;
+        top: 22px;
+    }
+    .summa-ref{
+        font-size: 33px;
+    }
+
+    .footer-referal p {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 460px)  {
+    .tomorrow {
+        right: -139px;
+        top: 84px;
+    }
+    .today .percent {
+        font-size: 40px;
+        margin-bottom: 89px;
+    }
+    .today {
+        right: -103px;
+        top: 55px;
+    }
+    .percent {
+        font-size: 31px;
+    }
+}
+
+
+@media screen and (max-width: 450px)  {
+    .tomorrow .name-day {
+        font-size: 16px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 97px;
+    }
+    .tomorrow {
+        right: -147px;
+        top: 81px;
+    }
+    .name-day {
+        font-size: 17px;
+    }
+    .yesterday {
+        left: 74px;
+        top: 125px;
+    }
+    .percent {
+        margin-bottom: 86px;
+    }
+    .today .percent {
+        font-size: 37px;
+    }
+    .today {
+        right: -111px;
+        top: 54px;
+    }
+
+}
+
+
+@media screen and (max-width: 436px)  {
+    .tomorrow {
+        right: -140px;
+        top: 77px;
+    }
+    .today {
+        right: -103px;
+        top: 51px;
+    }
+    .today .percent {
+        margin-bottom: 87px;
+    }
+    .yesterday {
+        left: 69px;
+        top: 122px;
+    }
+}
+
+@media screen and (max-width: 431px)  {
+    .header-content{
+        max-height: 123px;
+    }
+
+    .social-list{
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        left: 0;
+        z-index: 10000;
+        top: 130px;
+        margin-right: 0;
+        margin-left: 10px;
+    }
+
+    .social-item {
+        margin: 7px 0;
+        border-radius: 100%;
+        -webkit-box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.75);
+        box-shadow: 0px 0px 13px 0px rgba(0,0,0,0.75);
+    }
+
+    .social-link {
+        width: 40px;
+        height: 40px;
+        -webkit-box-shadow: 0px 0px 7px 0px rgba(255,255,255,0.63);
+        -moz-box-shadow: 0px 0px 7px 0px rgba(255,255,255,0.63);
+        box-shadow: 0px 0px 7px 0px rgba(255,255,255,0.63);
+    }
+
+}
+
+@media screen and (max-width: 425px)  {
+
+    .name-day {
+        font-size: 15px;
+    }
+    .percent {
+        margin-bottom: 82px;
+        font-size: 27px;
+    }
+    .yesterday {
+        left: 74px;
+        top: 122px;
+    }
+    .today .percent {
+        margin-bottom: 84px;
+        font-size: 35px;
+    }
+    .today {
+        right: -109px;
+        top: 51px;
+    }
+    .tomorrow .name-day {
+        font-size: 14px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 93px;
+    }
+    .tomorrow {
+        right: -149px;
+        top: 77px;
+    }
+}
+
+@media screen and (max-width: 415px)  {
+    .yesterday {
+        left: 68px;
+        top: 116px;
+    }
+    .today {
+        right: -103px;
+        top: 46px;
+    }
+    .tomorrow {
+        right: -137px;
+        top: 75px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 87px;
+    }
+
+}
+
+
+@media screen and (max-width: 407px)  {
+    .percent {
+        margin-bottom: 76px;
+    }
+    .yesterday {
+        left: 66px;
+        top: 113px;
+    }
+    .today .percent {
+        margin-bottom: 81px;
+        font-size: 33px;
+    }
+    .today {
+        right: -98px;
+        top: 46px;
+    }
+    .tomorrow {
+        right: -132px;
+        top: 71px;
+    }
+
+}
+
+@media screen and (max-width: 396px)  {
+    .tomorrow .name-day {
+        font-size: 13px;
+    }
+    .tomorrow {
+        right: -130px;
+        top: 71px;
+    }
+    .name-day {
+        font-size: 14px;
+    }
+    .yesterday {
+        left: 66px;
+        top: 110px;
+    }
+    .today {
+        right: -98px;
+        top: 44px;
+    }
+    .tomorrow {
+        right: -138px;
+        top: 71px;
+    }
+
+}
+
+@media screen and (max-width: 387px)  {
+    .percent {
+        margin-bottom: 72px;
+        font-size: 25px;
+    }
+    .today .percent {
+        margin-bottom: 76px;
+        font-size: 31px;
+    }
+    .tomorrow {
+        right: -130px;
+        top: 67px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 85px;
+    }
+
+}
+
+@media screen and (max-width: 375px)  {
+    .sub-title-header {
+        max-width: 320px;
+    }
+
+    .table-lider tr th {
+        font-size: 11px;
+    }
+
+    .text-bonus {
+        margin-top: 15px;
+        font-size: 14px;
+    }
+
+    .content-footer{
+        flex-direction: column;
+    }
+
+    .content-footer .logo{
+        margin-bottom: 15px;
+    }
+
+    .about-game p, .year {
+        text-align: center;
+    }
+
+    .about-game p{
+        margin-bottom: 15px;
+    }
+    .yesterday {
+        left: 57px;
+        top: 100px;
+    }
+    .today {
+        right: -92px;
+        top: 42px;
+    }
+    .tomorrow {
+        right: -130px;
+        top: 67px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 81px;
+    }
+    .today .percent {
+        margin-bottom: 73px;
+    }
+
+    .main-text {
+        max-width: 345px;
+    }
+
+    .summa-ref {
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width: 360px)  {
+    .name-day {
+        font-size: 12px;
+    }
+    .percent {
+        margin-bottom: 70px;
+        font-size: 24px;
+    }
+    .yesterday {
+        left: 64px;
+        top: 99px;
+    }
+    .today .percent {
+        margin-bottom: 72px;
+        font-size: 29px;
+    }
+    .today {
+        right: -96px;
+        top: 42px;
+    }
+    .tomorrow .name-day {
+        font-size: 11px;
+    }
+    .tomorrow {
+        right: -141px;
+        top: 62px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 78px;
+    }
+}
+
+@media screen and (max-width: 353px)  {
+    .yesterday {
+        left: 58px;
+        top: 95px;
+    }
+    .today {
+        right: -93px;
+        top: 39px;
+    }
+    .tomorrow {
+        right: -122px;
+        top: 60px;
+    }
+}
+
+@media screen and (max-width: 336px)  {
+    .yesterday {
+        left: 58px;
+        top: 91px;
+    }
+    .percent {
+        margin-bottom: 65px;
+        font-size: 24px;
+    }
+    .today .percent {
+        margin-bottom: 66px;
+        font-size: 27px;
+    }
+    .today {
+        right: -86px;
+        top: 39px;
+    }
+    .tomorrow {
+        right: -115px;
+        top: 60px;
+    }
+    .tomorrow .percent {
+        margin-bottom: 70px;
+    }
+}
+
+
+@media screen and (max-width: 330px)  {
+    .yesterday {
+        left: 52px;
+        top: 89px;
+    }
+    .percent {
+        margin-bottom: 60px;
+    }
+    .today {
+        right: -78px;
+        top: 37px;
+    }
+    .today .percent {
+        margin-bottom: 62px;
+    }
+    .tomorrow {
+        right: -103px;
+        top: 56px;
+    }
+}
